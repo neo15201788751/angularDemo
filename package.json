@@ -1,0 +1,23 @@
+{
+  "name": "angular-demo",
+  "version": "1.0.0",
+  "description": "a demo for angular",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neo15201788751/angularDemo.git"
+  },
+  "keywords": [
+    "angular",
+    "demo"
+  ],
+  "author": "neo.luo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neo15201788751/angularDemo/issues"
+  },
+  "homepage": "https://github.com/neo15201788751/angularDemo#readme"
+}
